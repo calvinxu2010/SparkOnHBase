@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hbase-annotations">
+    <CLASSES>
+      <root url="jar:///usr/hdp/2.3.0.0-2130/hbase/lib/hbase-annotations.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

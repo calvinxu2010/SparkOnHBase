@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="hbase-common">
+    <CLASSES>
+      <root url="jar:///usr/hdp/2.3.0.0-2130/hbase/lib/hbase-common.jar!/" />
+      <root url="jar:///usr/hdp/2.3.0.0-2130/hbase/lib/hbase-client.jar!/" />
+      <root url="jar:///usr/hdp/2.3.0.0-2130/hbase/lib/hbase-hadoop2-compat.jar!/" />
+      <root url="jar:///usr/hdp/2.3.0.0-2130/hbase/lib/hbase-protocol.jar!/" />
+      <root url="jar:///usr/hdp/2.3.0.0-2130/hbase/lib/hbase-server.jar!/" />
+      <root url="jar:///usr/hdp/2.3.0.0-2130/hbase/lib/htrace-core-3.1.0-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
